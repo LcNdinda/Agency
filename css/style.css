@@ -1,0 +1,37 @@
+/* .intro{
+  font-style: italic;
+}
+.author{
+  color: red;
+}
+p.author{
+  font-size: 12px;
+} */
+/* a{
+  color: black;
+  text-decoration: none;
+} */
+img{
+  width: 350px;
+}
+h4.tropical{
+  color: #f7325e;
+}
+
+p.tropical{
+  color: #7dc410;
+  font-family: fantasy;
+}
+.popular{
+  color: #8E24AA;
+}
+body{
+  text-align: center;
+  background-color: #CFD8DC;
+}
+h4{
+  font-size: 34px;
+}
+/* h3{
+  text-decoration: underline;
+} */
